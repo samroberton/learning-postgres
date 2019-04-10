@@ -24,3 +24,9 @@ the same Docker image (again in another terminal):
     docker run --interactive --tty learning-postgres psql --host <your-ip> --port 5432 --user postgres
 
 (Similarly, change `5432` for whatever port you used above.)
+
+
+# Then what?
+
+Once you have the docker container running, jump into the [exercises](exercises) directory
+and pick some exercises that sound interesting to work through.
